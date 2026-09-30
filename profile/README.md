@@ -1,7 +1,7 @@
 David Asuar Arteaga
 ===================
 
-Software Engineer | AgriTech & Livestock Management Specialist | Full-Stack Developer
+Software Engineer | Full-Stack Developer
 
 Senior software engineer with a track record of designing and delivering complex, mission-critical systems for the agricultural and livestock management sectors. Specialized in building production-grade applications that combine technical excellence with deep domain expertise in regulatory compliance, data integrity, and operational efficiency.
 
