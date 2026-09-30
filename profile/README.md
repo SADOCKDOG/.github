@@ -236,14 +236,6 @@ Contact & Connect
 
 LinkedIn: https://www.linkedin.com/in/david-asuar-arteaga-a8342720/
 GitHub: https://github.com/SADOCKDOG
-Repositories: LIVESTOCK-MANAGER, Cork-Operations-Manager, livestock-pwa-msix
-
-Professional Interests
-- Agricultural technology and digital transformation
-- Offline-first architecture and synchronization
-- Regulatory compliance automation
-- User experience for domain-specific applications
-- Teaching and mentoring in full-stack development
 
 ---
 
