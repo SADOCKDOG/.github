@@ -2,13 +2,13 @@
 
 ## ¿Qué hago?
 
-Soy desarrollador full-stack y creador de soluciones digitales para el sector agropecuario y la industria del corzo.
+Soy desarrollador full-stack y creador de soluciones digitales para el sector agropecuario y la industria del corcho.
 
 Creo herramientas que ayudan a productores, cooperativas y pequeñas empresas a digitalizar procesos, mejorar la trazabilidad y ahorrar tiempo en la gestión diaria.
 
 Actualmente desarrollo:
 - **Livestock Manager**: gestión ganadera y control de operaciones
-- **Cork Operations Manager**: digitalización y gestión para la industria del corzo
+- **Cork Operations Manager**: digitalización y gestión para la industria del corcho
 - APIs y soluciones de soporte para organizaciones que necesitan automatización
 
 Mi objetivo es hacer accesible la tecnología para el campo y para pequeñas empresas con una filosofía clara: funcionalidad real, datos útiles y soluciones que ahorren tiempo.
@@ -73,7 +73,7 @@ Apoya el desarrollo activo del proyecto.
 - todo lo incluido en *Supporter*
 - acceso prioritario a nuevas funciones
 - participación en decisiones de roadmap
-- acceso a avances y cambios importantes
+- acceso a avances y cambos importantes
 - reconocimiento en los repositorios principales
 - prioridad en soporte y consultas técnicas
 
