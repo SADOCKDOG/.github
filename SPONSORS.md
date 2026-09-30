@@ -73,7 +73,7 @@ Apoya el desarrollo activo del proyecto.
 - todo lo incluido en *Supporter*
 - acceso prioritario a nuevas funciones
 - participación en decisiones de roadmap
-- acceso a avances y cambos importantes
+- acceso a avances y cambios importantes
 - reconocimiento en los repositorios principales
 - prioridad en soporte y consultas técnicas
 
