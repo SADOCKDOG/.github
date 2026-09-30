@@ -244,3 +244,11 @@ Professional Interests
 - Regulatory compliance automation
 - User experience for domain-specific applications
 - Teaching and mentoring in full-stack development
+
+---
+
+<p align="center">
+  <a href="https://github.com/sponsors/SADOCKDOG">
+    <img src="https://img.shields.io/badge/Sponsor-SADOCKDOG-EC4A7A?style=for-the-badge&logo=github-sponsors" alt="Sponsor SADOCKDOG" />
+  </a>
+</p>
